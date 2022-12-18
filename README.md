@@ -1,4 +1,4 @@
-[![MasterHead] (https://img.freepik.com/premium-vector/purple-technology-banner-background-vector-abstract-graphic-design-banner-pattern-background-template_181182-18643.jpg?w=2000)
+
 <h1 align="center">Hi 👋, I'm Ryam</h1>
 <h3 align="center">Sophomore @ IAU</h3>
 <img align="right" alt="Coding" width="400" src="http://www.buildabear.com/">
