@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ryam</h1>
 <h3 align="center">Sophomore @ IAU</h3>
-<img align="right" alt="Coding" width="400" src="http://www.buildabear.com/">
+
 - 🔭 I’m currently working on **e-commerce platform**
 
 - 🌱 I’m currently learning **full stack development**
