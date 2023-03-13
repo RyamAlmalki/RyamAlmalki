@@ -1,3 +1,4 @@
+<iframe src="https://giphy.com/embed/7b8jdNUoFBdcoILjjv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-7b8jdNUoFBdcoILjjv">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Ryam</h1>
 <h3 align="center">Sophomore @ IAU</h3>
