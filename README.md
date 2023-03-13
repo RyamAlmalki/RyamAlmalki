@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/GEO_WAVES%201.png" alt="Material Bread logo">
+    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/Group%2013.gif?raw=true" alt="Material Bread logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ryam</h1>
