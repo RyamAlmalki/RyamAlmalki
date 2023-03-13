@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1200" src="https://github.com/RyamAlmalki/InVogue/blob/master/banner.png" alt="Material Bread logo">
+    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/GEO_WAVES%201.png" alt="Material Bread logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ryam</h1>
