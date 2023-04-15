@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/Group%201.png" alt="Material Bread logo">
+    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/cover.png?raw=true" alt="Material Bread logo">
 </p>
 
 
