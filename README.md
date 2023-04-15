@@ -1,4 +1,8 @@
 
+<p align="center">
+    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/Group%201.png" alt="Material Bread logo">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ryam</h1>
 <h3 align="center">Sophomore @ IAU</h3>
 
