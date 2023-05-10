@@ -4,7 +4,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **e-commerce platform**
+- 🔭 I’m currently working on **flutter mini project**
 
 - 🌱 I’m currently learning **full stack development**
 
