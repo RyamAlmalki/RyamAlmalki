@@ -19,7 +19,9 @@
 <a href="https://linkedin.com/in/ryam-almalki-a5b307201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryam-almalki-a5b307201" height="30" width="40" /></a>
 </p>
 
-
+<p align="center">
+    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/Frame%201.png" alt="Material Bread logo">
+</p>
 <p align="center">
     <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/myheart.png" alt="Material Bread logo">
 </p>
