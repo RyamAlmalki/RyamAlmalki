@@ -20,7 +20,4 @@
 </p>
 
 
-<p align="center">
-    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/coverbottom.png?raw=true" alt="Material Bread logo">
-</p>
 
