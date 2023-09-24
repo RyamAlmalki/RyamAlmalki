@@ -1,14 +1,3 @@
-<style>
-.skill-red {
-  background-color: #ff0000;
-  color: #fff;
-  padding: 5px 15px;
-  margin: 5px;
-  border-radius: 20px;
-  font-size: 14px;
-}
-</style>
-
 # 👋 Hello, I'm Ryam
 
 <p align="center">
@@ -24,17 +13,15 @@ I'm an AI student with a passion for designing mobile applications and developin
 ## 🚀 Skills
 
 <div style="display: flex; flex-wrap: wrap;">
-  <span class="skill-red">Python</span>
-  <span class="skill-red">Flutter</span>
-  <span class="skill-red">Dart</span>
-  <span class="skill-red">Java</span>
-  <span class="skill-red">Figma</span>
-  <span class="skill-red">Tailwind CSS</span>
-  <span class="skill-red">HTML</span>
-  <span class="skill-red">C++</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Python</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Flutter</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Dart</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Java</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Figma</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Tailwind CSS</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">HTML</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">C++</span>
 </div>
-
-
 
 ## ❤ Photo dump 
 <p align="center">
@@ -44,7 +31,3 @@ I'm an AI student with a passion for designing mobile applications and developin
 <p align="center">
     <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/banner_bottom.png" alt="Material Bread logo">
 </p>
-
-
-
-
