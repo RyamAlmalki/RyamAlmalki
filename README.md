@@ -8,7 +8,7 @@
     <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/Frame%201.png" alt="Material Bread logo">
 </p>
 <p align="center">
-    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/banner2.png" alt="Material Bread logo">
+    <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/banner_bottom.png" alt="Material Bread logo">
 </p>
 
 
