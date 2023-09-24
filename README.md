@@ -13,14 +13,14 @@ I'm an AI student with a passion for designing mobile applications and developin
 ## 🚀 Skills
 
 <div style="display: flex; flex-wrap: wrap;">
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">Python</span>
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">Flutter</span>
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">Dart</span>
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">Java</span>
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">Figma</span>
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">Tailwind CSS</span>
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">HTML</span>
-  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #007bff; color: #fff; border-radius: 20px; font-size: 14px;">C++</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Python</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Flutter</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Dart</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Java</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Figma</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">Tailwind CSS</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">HTML</span>
+  <span style="display: inline-block; padding: 5px 15px; margin: 5px; background-color: #ff0000; color: #fff; border-radius: 20px; font-size: 14px;">C++</span>
 </div>
 
 
