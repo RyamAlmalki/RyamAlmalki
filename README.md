@@ -16,7 +16,7 @@ I'm an AI student with a passion for designing mobile applications and developin
 - Mobile App Design
 - Mobile App Development
 
-## Photo dump 
+## ❤ Photo dump 
 <p align="center">
     <img width="800" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/mylife.png" alt="Material Bread logo">
 </p>
