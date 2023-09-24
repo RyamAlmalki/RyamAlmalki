@@ -12,9 +12,28 @@ I'm an AI student with a passion for designing mobile applications and developin
 
 ## 🚀 Skills
 
-- AI 
-- Mobile App Design
-- Mobile App Development
+<div style="display: flex; flex-wrap: wrap;">
+  <span class="skill">Python</span>
+  <span class="skill">Flutter</span>
+  <span class="skill">Dart</span>
+  <span class="skill">Java</span>
+  <span class="skill">Figma</span>
+  <span class="skill">Tailwind CSS</span>
+  <span class="skill">HTML</span>
+  <span class="skill">C++</span>
+</div>
+
+<style>
+.skill {
+  display: inline-block;
+  padding: 5px 15px;
+  margin: 5px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 20px;
+  font-size: 14px;
+}
+</style>
 
 ## ❤ Photo dump 
 <p align="center">
