@@ -6,10 +6,6 @@
 
 I'm an AI student with a passion for designing mobile applications and developing them.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryamalmalki&label=Profile%20views&color=0e75b6&style=flat" alt="ryamalmalki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryamalmalki" alt="ryamalmalki" /></a> </p>
-
 - 🔭 I'm currently working on creating a mobile application.
 - 🌱 I'm also learning about various AI technologies and their applications in mobile app development.
 - 👯 I'm always excited about collaborating on mobile app development projects and AI-related initiatives. If you have any exciting projects or ideas, feel free to reach out!
