@@ -4,11 +4,6 @@
     <img width="1200" src="https://github.com/RyamAlmalki/RyamAlmalki/blob/main/banner.png" alt="Material Bread logo">
 </p>
 
-I'm an AI student with a passion for designing mobile applications and developing them.
-
-- 🔭 I'm currently working on creating a mobile application.
-- 🌱 I'm also learning about various AI technologies and their applications in mobile app development.
-- 👯 I'm always excited about collaborating on mobile app development projects and AI-related initiatives. If you have any exciting projects or ideas, feel free to reach out!
 
 ## 🚀 Languages and Tools
 
